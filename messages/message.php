@@ -8,6 +8,7 @@ return [
         'da',
         'de',
         'es',
+        'el',
         'fa-IR',
         'fi',
         'fr',
